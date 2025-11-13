@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-Zen TERMINAL v8.1 – FINAL EDITION
-+ NO WHITE PADDING ANYWHERE
-+ Compact GUI
-+ Start from selected file
-+ Abort → Select → Attack = Skip
-"""
 import os
 import sys
 import time
@@ -103,7 +96,7 @@ def load_passwords_from_npy(filepath: Path) -> List[str]:
 class ZenApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Zen TERMINAL v8.1")
+        self.title("Zen-Fi v01")
         self.configure(bg="#000000")
 
         # === STYLES ===
