@@ -121,15 +121,7 @@ This project is provided for education and authorized security testing only. You
 
 ## License & Credits
 
-* Author: (your name)
-* Suggested license: MIT (add `LICENSE` file if you want to publish)
+* Author: titan7k
+## Using the GUI
 
----
-
-If you want, I can also:
-
-* generate a `LICENSE` file (MIT/Apache/GPL),
-* add a sample `password.txt` and conversion script into the repo,
-* or produce a concise `one-liner` install script for Debian/Arch.
-
-Tell me which and I will add it.
+1. Click **BROWSE** and select the folder containing your `password*.npy` files.
